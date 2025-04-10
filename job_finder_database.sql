@@ -26,6 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `admin`
 --
+CREATE DATABASE job_finder_database;
 
 CREATE TABLE `admin` (
   `id` int(127) NOT NULL,
